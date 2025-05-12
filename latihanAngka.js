@@ -1,0 +1,3 @@
+let hasPairWithSum = (arr, result) => {
+
+}
